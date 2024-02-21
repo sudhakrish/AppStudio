@@ -20,4 +20,9 @@ public class Coordinator {
         return welcomeVC
     }
     
+    public func getAppstudioButton(title: String) -> UIButton {
+        let button = AppStudioButton()
+        button.titleText = title
+        return button
+    }
 }

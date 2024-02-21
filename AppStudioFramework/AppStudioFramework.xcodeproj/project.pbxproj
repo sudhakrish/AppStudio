@@ -14,6 +14,7 @@
 		8093CCB42B85F21600EB6338 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8093CCB32B85F21600EB6338 /* Storyboard.storyboard */; };
 		8093CCB62B85F2BD00EB6338 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8093CCB52B85F2BD00EB6338 /* WelcomeViewController.swift */; };
 		8093CCB82B85F2F600EB6338 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8093CCB72B85F2F600EB6338 /* Coordinator.swift */; };
+		8093CCBF2B85F9B800EB6338 /* AppStudioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8093CCBE2B85F9B800EB6338 /* AppStudioButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,7 @@
 		8093CCB32B85F21600EB6338 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		8093CCB52B85F2BD00EB6338 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		8093CCB72B85F2F600EB6338 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		8093CCBE2B85F9B800EB6338 /* AppStudioButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStudioButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				8093CC602B85F15A00EB6338 /* AppStudioFramework.h */,
 				8093CCB32B85F21600EB6338 /* Storyboard.storyboard */,
 				8093CCB52B85F2BD00EB6338 /* WelcomeViewController.swift */,
+				8093CCBE2B85F9B800EB6338 /* AppStudioButton.swift */,
 				8093CCB72B85F2F600EB6338 /* Coordinator.swift */,
 				8093CC612B85F15A00EB6338 /* AppStudioFramework.docc */,
 			);
@@ -205,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8093CC622B85F15A00EB6338 /* AppStudioFramework.docc in Sources */,
+				8093CCBF2B85F9B800EB6338 /* AppStudioButton.swift in Sources */,
 				8093CCB62B85F2BD00EB6338 /* WelcomeViewController.swift in Sources */,
 				8093CCB82B85F2F600EB6338 /* Coordinator.swift in Sources */,
 			);
