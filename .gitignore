@@ -2,10 +2,9 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+.DS_Store
 AppStudioFramework/.DS_Store
 AppStudioFrameworkExample/.DS_Store
-AppStudioWorkspace.xcworkspace/
-
 
 ## User settings
 xcuserdata/
